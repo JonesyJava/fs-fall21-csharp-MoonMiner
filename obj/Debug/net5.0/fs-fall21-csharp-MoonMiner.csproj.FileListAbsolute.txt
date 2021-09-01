@@ -1,0 +1,16 @@
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\bin\Debug\net5.0\fs-fall21-csharp-MoonMiner.exe
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\bin\Debug\net5.0\fs-fall21-csharp-MoonMiner.deps.json
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\bin\Debug\net5.0\fs-fall21-csharp-MoonMiner.runtimeconfig.json
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\bin\Debug\net5.0\fs-fall21-csharp-MoonMiner.runtimeconfig.dev.json
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\bin\Debug\net5.0\fs-fall21-csharp-MoonMiner.dll
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\bin\Debug\net5.0\ref\fs-fall21-csharp-MoonMiner.dll
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\bin\Debug\net5.0\fs-fall21-csharp-MoonMiner.pdb
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\obj\Debug\net5.0\fs-fall21-csharp-MoonMiner.csprojAssemblyReference.cache
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\obj\Debug\net5.0\fs-fall21-csharp-MoonMiner.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\obj\Debug\net5.0\fs-fall21-csharp-MoonMiner.AssemblyInfoInputs.cache
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\obj\Debug\net5.0\fs-fall21-csharp-MoonMiner.AssemblyInfo.cs
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\obj\Debug\net5.0\fs-fall21-csharp-MoonMiner.csproj.CoreCompileInputs.cache
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\obj\Debug\net5.0\fs-fall21-csharp-MoonMiner.dll
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\obj\Debug\net5.0\ref\fs-fall21-csharp-MoonMiner.dll
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\obj\Debug\net5.0\fs-fall21-csharp-MoonMiner.pdb
+C:\source\CSharp\fs-fall21-csharp-MoonMiner\obj\Debug\net5.0\fs-fall21-csharp-MoonMiner.genruntimeconfig.cache

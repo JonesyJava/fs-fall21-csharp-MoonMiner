@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "fs-fall21-csharp-MoonMiner/1.0.0": {
+        "runtime": {
+          "fs-fall21-csharp-MoonMiner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fs-fall21-csharp-MoonMiner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
